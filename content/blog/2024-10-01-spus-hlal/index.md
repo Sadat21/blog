@@ -1,5 +1,5 @@
 ---
-title: "How to convert CAD to USD to purchase US Stocks"
+title: "How to Convert CAD to USD to Purchase US Stocks"
 date: 2024-10-01
 description: "This guide teaches you how to perform Norbert's gambit to convert CAD to USD so you can purchase USD ETFs like SPUS on Questrade."
 ---
