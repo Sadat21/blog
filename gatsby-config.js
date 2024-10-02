@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Sadat's Blog`,
+    title: `Halal Hustle Handbook`,
     author: {
       name: `Sadat Islam`,
       summary: `a software engineer who grew up in Calgary, Canada.`,
@@ -103,7 +103,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Sadat's Blog RSS Feed",
+            title: "Halal Hustle Handbook RSS Feed",
           },
         ],
       },
