@@ -12,7 +12,7 @@ module.exports = {
     title: `Halal Hustle Handbook`,
     author: {
       name: `Sadat Islam`,
-      summary: `a software engineer who grew up in Calgary, Canada.`,
+      summary: `a software engineer based in Canada wanting to increase financial literacy of young muslim professionals.`,
     },
     description: `A blog of things I've learned throughout my career.`,
     siteUrl: `https://sadat21.github.io/blog/`,

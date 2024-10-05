@@ -45,10 +45,15 @@ const Bio = () => {
       {author?.name && (
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`} target="_blank">
-            You should follow them on LinkedIn
+          {` Connect and learn about what else I'm working on `}
+          <a href={`https://linktr.ee/sadat21`} target="_blank">
+            here
           </a>
+          {' and please provide me feedback at '}
+          <a href={`mailto:isadat21@gmail.com`}>
+            isadat21@gmail.com
+          </a>
+          {`.`}
         </p>
       )}
     </div>
