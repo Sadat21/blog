@@ -12,7 +12,7 @@ Norbert's Gambit costs a fixed fee of two trades (~20 CAD as of writing today) n
 
 The reason we are not using Wealthsimple for this process is because as of writing this post, they do not support Norbert's Gambit.
 
-Quwstrade UI (User Interface) is always changing so I'll try to keep the steps generic enough to be applicable to any version of the app.
+Questrade UI (User Interface) is always changing so I'll try to keep the steps generic enough to be applicable to any version of the app.
 
 ## Step 1: Open a Questrade Account
 
